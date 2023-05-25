@@ -3,7 +3,7 @@
 - ML and AI enthusiast 
 - Currently exploring in the field of Cloud Computing, Machine Learning and Deep Learning
 
-## Socials:
+## Socials :
 <div id="badges" align="center">
 <a href="https://linkedin.com/in/anishaah">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
