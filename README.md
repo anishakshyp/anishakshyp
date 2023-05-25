@@ -20,10 +20,9 @@
 <a href="https://mybrainythoughts.wordpress.com/">
 <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress Badge"/>
   </a>
- 
-## Languages and Tools :
-<div>
-## Languages and Tools :
+
+
+## Languages:
 
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
