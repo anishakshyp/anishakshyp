@@ -1,6 +1,6 @@
 ## About Me :
 - Second year CSE undergraduate 
-- ML and AI enthusiast 
+- AI and ML enthusiast 
 - Currently exploring in the field of Cloud Computing, Machine Learning and Deep Learning
 
 ## Socials :
