@@ -23,4 +23,6 @@
 <a href="https://mybrainythoughts.wordpress.com/">
 <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress Badge"/>
   </a>
+    
+    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anishakshyp&theme=gotham&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
