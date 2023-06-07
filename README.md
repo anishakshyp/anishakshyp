@@ -24,8 +24,8 @@
 <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress Badge"/>
   </a>
     
-   ##
-    ![](https://github-readme-stats.vercel.app/api?username=anishakshyp&theme=gotham&hide_border=false&include_all_commits=true&count_private=false)<br/>
-    ![](https://github-readme-streak-stats.herokuapp.com/?user=anishakshyp&theme=gotham&hide_border=false)<br/>
+   ## Stats :
+     ![](https://github-readme-stats.vercel.app/api?username=anishakshyp&theme=gotham&hide_border=false&include_all_commits=true&count_private=false)<br/>
+     ![](https://github-readme-streak-stats.herokuapp.com/?user=anishakshyp&theme=gotham&hide_border=false)<br/>
      ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anishakshyp&theme=gotham&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
