@@ -24,4 +24,5 @@
 <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress Badge"/>
   </a>
     
-    
+   ##
+     [![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anishakshypa&layout=donut)](https://github.com/anishakshyp/github-readme-stats)
