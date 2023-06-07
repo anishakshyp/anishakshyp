@@ -27,8 +27,7 @@
   # 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anishakshyp&theme=gotham&hide_border=false)](https://github.com/anishakshyp)
-[![Top Languages](https://github-readme-stats.vercel.app/api/toplan/?username=anishakshyp&theme=gothamhide_border=falseinclude_all_commits=truecount_private=falselayout=compact)](https://github.com/anishakshyp)
-
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anishakshyp&theme=gotham&hide_border=false&include_all_commits=true&count_private=false&layout=compact)](https://github.com/anishakshyp)
 
 
 
