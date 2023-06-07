@@ -25,4 +25,6 @@
   </a>
     
    ##
-     [![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anishakshypa&layout=donut)](https://github.com/anishakshyp/github-readme-stats)
+    ![](https://github-readme-stats.vercel.app/api?username=anishakshyp&theme=gotham&hide_border=false&include_all_commits=true&count_private=false)<br/>
+     ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anishakshyp&theme=gotham&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
