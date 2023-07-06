@@ -1,5 +1,6 @@
 ## About Me :
-- Second year CSE undergraduate 
+- Second year CSE undergraduate interested in Coding and Design
+- Working on Web Development and Java Projects
 - AI and ML enthusiast 
 - Currently exploring in the field of Cloud Computing, Machine Learning and Deep Learning
 
