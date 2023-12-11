@@ -1,8 +1,8 @@
 ## About Me :
-- Pre-final year CSE undergraduate interested in Coding and Design
-- Working on Web Development and Java Projects
-- AI and ML enthusiast 
-- Currently exploring in the field of Cloud Computing, Machine Learning and Deep Learning
+- Junior year CSE undergrad interested in Coding, Design and Software
+- Working on Web Dev and ML Projects
+- AI and ML enthusiast exploring the field of Cloud Computing, Machine Learning and Deep Learning
+  
 
 ## Socials :
 <div id="badges" align="center">
