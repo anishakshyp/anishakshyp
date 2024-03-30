@@ -1,6 +1,7 @@
 ## About Me :
-- Junior year CSE undergrad interested in Coding, Design and Software
+- A pre-final year CSE undergrad interested in Coding, Design and Software
 - Working on Web Dev and ML Projects
+- Transitioning from Front-end development to mastering Full-stack web development
 - AI and ML enthusiast exploring the field of Cloud Computing, Machine Learning and Deep Learning
     
   # 
