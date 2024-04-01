@@ -1,9 +1,8 @@
 ## Hey there!
 I am a pre-final year CSE undergrad interested in Coding, Design and Software
 - currently working on Web Dev and ML Projects
-- Transitioning from Front-end development to mastering Full-stack web development
-- AI and ML enthusiast exploring the field of Cloud Computing, Machine Learning and Deep Learning
-    
+- also transitioning myslef from Front-end developer to mastering Full-stack web developer
+- AI and ML enthusiast exploring the field of Machine Learning and Deep Learning along with Data Analytics.
   # 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anishakshyp&theme=gotham&hide_border=false)](https://github.com/anishakshyp)
