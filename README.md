@@ -1,6 +1,6 @@
 ## Hey there!
 I am a pre-final year CSE grad learning new tech and is interested in Coding, Design and Software.
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anishakshyp&label=Profile%20views&color=0e75b6&style=flat" alt="anishakshyp" /> </p>
 ## 📊 My Github Stats
 <p align="left">
    
