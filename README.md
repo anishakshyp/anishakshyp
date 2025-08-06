@@ -1,5 +1,5 @@
 ## Hey there!
-I am a pre-final year CSE grad learning new tech and is interested in Coding, Design and Software.
+I am a final year CSE grad learning new tech and is interested in Coding, Design and Software.
 
 ## 📊 My Github Stats
 <p align="left">
